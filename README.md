@@ -1,5 +1,4 @@
 # Node CRUD API
-# Node CRUD API
 
 A lightweight RESTful API built with **pure Node.js**, without using any frameworks, to perform basic CRUD (Create, Read, Update, Delete) operations for user management.
 
